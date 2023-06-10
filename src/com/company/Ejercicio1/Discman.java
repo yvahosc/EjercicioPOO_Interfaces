@@ -4,7 +4,7 @@ public class Discman implements ReproductorMusica{
     private final String nombre;
 
     public Discman(){
-        this.nombre = "Reproductor - MP3";
+        this.nombre = "Discman";
     }
 
     public String getNombre(){
