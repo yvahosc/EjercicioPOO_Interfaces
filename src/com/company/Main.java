@@ -9,7 +9,7 @@ public class Main {
         System.out.println("Ejecución ejercicio 1.");
         Ejercicio1.ejecutarEjercicio();
 
-        System.out.println("Ejecución ejercicio 2.");
+        System.out.println("\nEjecución ejercicio 2.");
         Ejercicio2.ejecutarEjercicio();
     }
 }
