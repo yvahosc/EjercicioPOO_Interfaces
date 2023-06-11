@@ -10,7 +10,7 @@ public class Ejercicio2 {
                 "Marquez", 70000);
 
         Libro libro2 = new Libro("La importancia de morir a tiempo", "Mario " +
-                "Medoza", 49000);
+                "Mendoza", 49000);
 
         //Utilizando métodos de la interfaz
         libro1.mostrarInformacion();
