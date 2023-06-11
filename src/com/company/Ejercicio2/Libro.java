@@ -15,7 +15,7 @@ public class Libro implements Mostrable, Vendible{
     @Override
     public void mostrarInformacion() {
         System.out.println("Título: [" + this.titulo + "] - Autor: [" +
-                this.autor + "] - Precio: [" + this.precio + "]");
+                this.autor + "] - Precio: [" + obtenerPrecio() + "]");
     }
 
     @Override
